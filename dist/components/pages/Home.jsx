@@ -7,7 +7,7 @@ import Footer from '../Footer';
 function Home() {
 
   const homeStyle = {
-    backgroundImage: "url('/src/assets/background.jpg')",
+    backgroundImage: "url('/dist/assets/background.jpg')",
     minHeight: 1000,
   }
   ;
