@@ -13,7 +13,7 @@ function Contact() {
   });
 
   const formStyle = {
-    backgroundImage: "url('/dist/assets/contact.jpg')",
+    backgroundImage: "url('/src/assets/contact.jpg')",
     minHeight: 1000,
     color: "white",
     // backgroundPosition: "center"

@@ -1,4 +1,4 @@
-import API from "/dist/util/ProjectsAPI";
+import API from "../../util/ProjectsAPI";
 
 export function Project1() {
 
