@@ -26,9 +26,9 @@ https://github.com/leesoohang/module13-react-portfolio.git
 
 Screenshots of main pages in the application:
 
-![home](/assets/screenshot-home.png)
-![projects](/assets/screenshot-projects.png)
-![home](/assets/screenshot-contact.png)
+![home](./src/assets/screenshot-home.png)
+![projects](./src/assets/screenshot-projects.png)
+![home](./src/assets/screenshot-contact.png)
 
 ## Credits
 Bootstrap documentation:
