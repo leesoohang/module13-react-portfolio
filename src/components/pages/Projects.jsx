@@ -3,11 +3,11 @@ import Navbar from "../Navbar";
 import Footer from "../Footer";
 import { Link, Outlet } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import API from "../../util/ProjectsAPI";
+import API from "/dist/util/ProjectsAPI";
 
 function Projects() {
 	const projectStyle = {
-		backgroundImage: "url('/src/assets/project.jpg')",
+		backgroundImage: "url('/dist/assets/project.jpg')",
 		minHeight: 1000,
 		color: "white",
 		backgroundPosition: "center",
