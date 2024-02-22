@@ -6,7 +6,7 @@ const API = [
         "desc": "Application designed for corporate travelers who are looking to book hotel accommodation, in a city where they go on a business trip.",
         "deploy_url": "https://leesoohang.github.io/hotel-horizon/",
         "title": "Hotel Horizon",
-        "img": "/src/assets/screenshot-hotel-horizon.png"
+        "img": "/assets/screenshot-hotel-horizon.png"
     }
 ,
 {
@@ -16,7 +16,7 @@ const API = [
     "desc": "Weather dashboard that displays the current weather and five day forecast for a searched city. The searched cities will also be saved.",
     "deploy_url": "https://leesoohang.github.io/module8-weather-dashboard",
     "title": "Weather Dashboard",
-    "img": "/src/assets/screenshot-weather-dashboard.png"
+    "img": "/assets/screenshot-weather-dashboard.png"
 }
 ,
 {
@@ -26,7 +26,7 @@ const API = [
     "desc": "Calendar application for users to save events during business hours in the day.",
     "deploy_url": "https://leesoohang.github.io/module7-daily-planner",
     "title": "Daily Planner",
-    "img": "/src/assets/screenshot-daily-planner.png"
+    "img": "/assets/screenshot-daily-planner.png"
 }
 ,
 {
@@ -36,7 +36,7 @@ const API = [
     "desc": "Application of typical coding assessment which includes multiple-choice questions.",
     "deploy_url": "https://leesoohang.github.io/module6-coding-quiz",
     "title": "Coding Quiz",
-    "img": "/src/assets/screenshot-coding-quiz.png"
+    "img": "/assets/screenshot-coding-quiz.png"
 }
 ,
 {
@@ -46,7 +46,7 @@ const API = [
     "desc": "Application for users to generate a random password based on their criteria - whether to include special characters, numeric characters or uppercase characters, or lowercase letters.",
     "deploy_url": "https://leesoohang.github.io/module5-password-generator",
     "title": "Password Generator",
-    "img": "/src/assets/screenshot-password-generator.png"
+    "img": "/assets/screenshot-password-generator.png"
 }
 ,
 {
@@ -56,7 +56,7 @@ const API = [
     "desc": "Refactoring the code of the webpage for Horiseon, a marketing agency, in order for better accessibility standards.",
     "deploy_url": "https://leesoohang.github.io/module1-refactor-Horiseon",
     "title": "Horiseon",
-    "img": "/src/assets/screenshot-horiseon.png"
+    "img": "/assets/screenshot-horiseon.png"
 }
 ]
 
