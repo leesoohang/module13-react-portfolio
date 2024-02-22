@@ -7,7 +7,7 @@ import API from "../../util/ProjectsAPI";
 
 function Projects() {
 	const projectStyle = {
-		backgroundImage: "url('/src/assets/project.jpg')",
+		backgroundImage: "url('/dist/assets/project.jpg')",
 		minHeight: 1000,
 		color: "white",
 		backgroundPosition: "center",
