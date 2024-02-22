@@ -41,6 +41,7 @@ function Contact() {
       name: "",
       email: "",
       phone: "",
+      message: ""
     });
   };
 
@@ -80,6 +81,17 @@ function Contact() {
               onChange={handleInputChange}
               type="number"
               placeholder="You must provide either your email address or phone number"
+            />
+          </div>
+          <div className="mb-3">
+            <label className="form-label">Your Message</label>
+            <textarea
+              className="form-control"
+              value={formData.message}
+              name="phone"
+              onChange={handleInputChange}
+              type="number"
+              
             />
           </div>
           <button
