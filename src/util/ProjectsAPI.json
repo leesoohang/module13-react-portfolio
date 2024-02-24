@@ -1,4 +1,4 @@
-const API = [
+[
     {
         "id":1,
         "repo":"hotel-horizon",
@@ -59,8 +59,3 @@ const API = [
     "img": "/assets/screenshot-horiseon.png"
 }
 ]
-
-
-
-
-export default API
